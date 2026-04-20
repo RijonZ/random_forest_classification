@@ -73,7 +73,6 @@ The Random Forest model achieves strong performance on the Social Network Ads da
 random_forest_classification/
 ├── random_forest_classification.ipynb/      # Main Jupyter notebook with complete analysis
 ├── Social_Network_Ads.csv/                  # Dataset file
-├── .ipnyb_checkpoints/                      # Jupyter checkpoint files
 └── README.md                                # Project Documentation
 ```
 # Key Learning Outcomes
